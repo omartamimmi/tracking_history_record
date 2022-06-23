@@ -1,0 +1,9 @@
+ "name": "tracking/history-record",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "omartamimmi\\TrackingHistoryRecord\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
