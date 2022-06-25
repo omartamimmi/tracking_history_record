@@ -1,6 +1,10 @@
 { 
     "name": "tracking/history-record",
     "description": "A hello world composer private package.",
+    "require": {
+        "php": ">=7.4"
+
+    },
     "autoload": {
         "psr-4": {
             "omartamimmi\\TrackingHistoryRecord\\": "src/"
